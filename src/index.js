@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './ModalExp/App'
+import App from './HamburgerMenuEx/App'
 import reportWebVitals from './reportWebVitals';
-import "./ModalExp/styles.css"
+import "./HamburgerMenuEx/styles.css"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
