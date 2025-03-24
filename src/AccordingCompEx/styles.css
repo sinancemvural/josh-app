@@ -1,0 +1,12 @@
+body {
+    background: url('https://sandpack-bundler.vercel.app/img/kendama-bg-vert.png');
+    background-size: cover;
+    margin: 0;
+    padding: 32px;
+  }
+  /* Add a forced spacer at the bottom */
+  body::after {
+    content: '';
+    display: block;
+    height: 32px;
+  }
