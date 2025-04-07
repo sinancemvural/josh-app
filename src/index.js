@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './AccordingCompEx/App'
+import App from './ToonieClicker/App'
 import reportWebVitals from './reportWebVitals';
-import "./AccordingCompEx/styles.css"
+import "./ToonieClicker/styles.css"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
